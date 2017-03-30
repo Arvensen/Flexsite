@@ -1,6 +1,6 @@
 @font-face {
 	font-family: Amontilladios;
-	src: url(../fonts/amontilladios.ttf);
+	src: url("../fonts/amontilladios.ttf");
 }
 
 body {
